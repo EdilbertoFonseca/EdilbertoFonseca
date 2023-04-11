@@ -1,7 +1,7 @@
-    - 👋 Oi eu sou @EdilbertoFonseca
-- 👀 Estou interessado em novos aprendizados na área da programação.
-- 🌱 atualmente estou programando em Python.
-- 💞️ Procuro colaborar em projetos que contribua com a acessibilidade para pessoa com deficiência. 
+- 👋 Hi I'm @EdilbertoFonseca
+- 👀 I am interested in learning new things in the area of ​​programming.
+- 🌱 I'm currently programming in Python.
+- 💞️ I try to collaborate on projects that contribute to accessibility for people with disabilities.
 - 📫 E-mail: <edilberto.fonseca@outlook.com>
 
 <!---
